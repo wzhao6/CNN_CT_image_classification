@@ -1,7 +1,8 @@
 # CNN_CT_image_classification
 X-ray image manufacture classification using MobileNetV2 transfer learning, see Jupyter Notebook for details.
 
-Source:
+
+About the dataset:
 
 Kazunori Okada, kazokada '@' sfsu.edu, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University 
 Maya Belen Stark, maya.b.stark '@' gmail.com, BIDAL: Biomedical Image and Data Analyses Lab, Department of Computer Science, San Francisco State University 
